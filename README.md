@@ -1,7 +1,7 @@
 
 # [Built Portfolio With GitHub ](https://github.com/james-jamshed/github-portfolio)
 
-# Developer Portfolio
+# Developer Portfolio.
 
 #### Looking to showcase your skills with a professional portfolio website? You’re in the right place! With the Personal Portfolioo template, you can build a customized, polished portfolio in no time. Perfect for developers and freelancers, this template is designed to be easy to use, quick to customize, and a fantastic way to make a lasting impression. Start building your personal brand today!
 
