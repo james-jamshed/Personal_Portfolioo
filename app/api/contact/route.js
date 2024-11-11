@@ -73,6 +73,11 @@ export async function POST(request) {
     const { name, email, message: userMessage } = payload;
     const token = process.env.TELEGRAM_BOT_TOKEN;
     const chat_id = process.env.TELEGRAM_CHAT_ID;
+     // Log environment variables
+     console.log('EMAIL_ADDRESS:', process.env.EMAIL_ADDRESS);
+     console.log('GMAIL_PASSKEY:', process.env.GMAIL_PASSKEY);
+     console.log('TELEGRAM_BOT_TOKEN:', token);
+     console.log('TELEGRAM_CHAT_ID:', chat_id);
 
     // Validate environment variables
     if (!token || !chat_id) {
