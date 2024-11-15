@@ -24,6 +24,16 @@ export const projectsData = [
         demo: 'https://wetflixgpt.netlify.app/',
         image: travel,
     },
+    {
+        id: 3,
+        name: 'Portfolio',
+        description: "Hi, I'm Jamshed Alam, a passionate full-stack developer specializing in building dynamic, user-friendly web applications. With expertise in JavaScript, React, and Next.js, I love solving complex problems and creating innovative digital experiences. Explore my projects to see how I blend creativity and code to bring ideas to life.",
+        tools: ['React', 'Tailwind CSS', "DEV API", "NestJS",  "Email validation", "Telegram bot", "Gmail Passkey"],
+        role: 'Full Stack Developer',
+        code: 'https://github.com/james-jamshed/Personal_Portfolioo',
+        demo: 'https://jamshedalam.in',
+        image: travel,
+    },
     // {
     //     id: 3,
     //     name: '',
