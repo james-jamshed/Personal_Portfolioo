@@ -12,7 +12,7 @@ export const personalData = {
   I'm open to job opportunities that align with my skills and interests, and I’m excited to contribute to projects that make an impact.
 `,
   phone: '+919939600823',
-  address: 'LUCKNOW, UTTAR PRADESH, INDIA',
+  address: 'DELHI, INDIA',
   github: 'https://github.com/james-jamshed/',
   facebook: 'https://www.facebook.com/share/Rr6iLoTJMdw97LSf/',
   linkedIn: 'https://www.linkedin.com/in/james-jamshed/',
@@ -20,5 +20,5 @@ export const personalData = {
   stackOverflow: '',
   leetcode: "https://leetcode.com/james_jamshed/",
   devUsername: "alamjamshed17777",
-  resume: "https://drive.google.com/file/d/1X5gjqOMBvP9Dnu8IYzXGJNtPXr7un3Ur/view?usp=sharing"
+  resume: "https://drive.google.com/file/d/1GVtwG99x0ybjHnjLBktPnNgpkdrbLskB/view?usp=drive_link"
 }
