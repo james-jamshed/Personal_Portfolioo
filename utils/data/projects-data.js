@@ -14,6 +14,7 @@ export const projectsData = [
         demo: 'https://craving-iota.vercel.app/',
         image: crefin,
     },
+    
     {
         id: 2,
         name: 'Netflix_GPT',
@@ -51,8 +52,8 @@ export const projectsData = [
         tools: ['React', 'Tailwind CSS', "Google MAP", "Google Cloud",  "Email validation", "GPT 4.0", "Firebase"],
         role: 'Full Stack Developer',
         code: 'https://github.com/james-jamshed/AI_TRIP_PLANNER',
-        demo: 'aitripplannerr.netlify.app/',
-        image: trvel,
+        demo:  'https://aitripplannerr.netlify.app/',
+        image: realEstate,
     },
     // {
     //     id: 3,
