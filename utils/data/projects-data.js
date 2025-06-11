@@ -52,7 +52,7 @@ export const projectsData = [
         role: 'Full Stack Developer',
         code: 'https://github.com/james-jamshed/AI_TRIP_PLANNER',
         demo: 'aitripplannerr.netlify.app/',
-        image: travel,
+        image: trvel,
     },
     // {
     //     id: 3,
